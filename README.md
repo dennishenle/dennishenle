@@ -39,8 +39,8 @@ Passionate about building beautiful cross-platform apps, tinkering with AI, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennishenle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dennis's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennishenle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dennishenle&theme=tokyonight" alt="Dennis's GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dennishenle&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Passionate about building beautiful cross-platform apps, tinkering with AI, and 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennishenle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dennishenle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
